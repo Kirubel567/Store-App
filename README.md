@@ -10,7 +10,7 @@ CRUD API consumption using http and state management using Provider
 
 ![Detailed Screen 1](Screen_shots/product_detail_sceen_1.png)
 
-![Detailed Screen 2](Screen_shots/product_detail_sceen_2.png)
+![Detailed Screen 2](Screen_shots/product_detail_screen_2.png)
 
 ![Add Screen 1](Screen_shots/add_product_1.png)
 
